@@ -18,12 +18,27 @@ dependencies:
   intl: any
   rename: ^2.1.1
   riverpod: ^2.3.6
+  scan: ^1.6.0
+  freezed_annotation: ^2.2.0
+  dio: ^5.2.1+1
+  flutter_spinkit: ^5.2.0
+  # handle phone directory
+  path: ^1.8.3
+  path_provider: ^2.0.15
+  # Image/Document preview
+  file_previewer: ^0.0.6
+  google_fonts: ^5.1.0
+  # Route
+  auto_route: ^7.7.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  freezed: ^2.3.5
+  build_runner: any
+  auto_route_generator: ^7.2.0
 
 flutter:
   uses-material-design: true
@@ -34,3 +49,8 @@ flutter:
   assets:
     # Add assets from the images directory to the application.
     - assets/images/
+    - assets/images/2x
+    - assets/images/3x
+    - assets/icons/
+    - assets/icons/2x
+    - assets/icons/3x

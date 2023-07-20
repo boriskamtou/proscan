@@ -1,0 +1,6 @@
+{
+  "appTitle": "proscan",
+  "@appTitle": {
+    "description": "Le nom de l'application"
+  }
+}
