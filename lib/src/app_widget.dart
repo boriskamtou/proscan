@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:proscan/src/features/core/presentation/themes/app_themes.dart';
 
 import 'features/core/presentation/routes/app_router.dart';
+import 'features/core/presentation/themes/app_themes.dart';
 
 class AppWidget extends StatelessWidget {
   AppWidget({super.key});

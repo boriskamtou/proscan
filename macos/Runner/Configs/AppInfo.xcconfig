@@ -8,7 +8,7 @@
 PRODUCT_NAME = ProScan;
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.proscan.app;
+PRODUCT_BUNDLE_IDENTIFIER = com.wcs.proscan;
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.wcs. All rights reserved.
